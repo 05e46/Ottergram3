@@ -122,7 +122,7 @@ body {
   .thumbnail-list {
     flex-direction: column;
     order: 0;
-    margin-left: 2em;
+    margin-left: 20px;
   }
 
   .thumbnail-item {
@@ -130,6 +130,6 @@ body {
   }
 
   .thumbnail-item + .thumbnail-item {
-    margin-top: 2em;
+    margin-top: 20px;
   }
 }
