@@ -11,4 +11,3 @@ install ESLint too and make sure to answer the follow questions
 ? What quotes do you use for strings? Single
 ? Do you require semicolons? Yes
 ? What format do you want your config file to be in? JSON
-
